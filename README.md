@@ -9,6 +9,7 @@ pkg install git
 git clone https://github.com/YtGandroid/Termux-ApkTool
 ```
 
+* kalo ada error tinggal ketik ulang `pkg update && pkg upgrade`
 * kalo udah terus cek dulu apakah udah di install beneran apa belum
 ```bash
 ls
