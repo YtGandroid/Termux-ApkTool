@@ -41,7 +41,7 @@ apktool b file_hasil_decompile -o mana_apk.apk --use-aapt2
 sama seperti decompile, jika masih di layar home maka cantumkan lokasi filenya
 
 ## *Tandatangani
-> sayangnya untuk menandatangani ngga cukup pake script Termux-ApkTool ini tapi kalian bisa menggunakan package ```apksigner``` dengan perintah
+> sayangnya untuk menandatangani ga cukup pake script Termux-ApkTool ini tapi kalian bisa menggunakan package ```apksigner``` dengan perintah
 ```bash
 pkg install apksigner
 apksigner -p pasword_keystore nama_baru_apk
