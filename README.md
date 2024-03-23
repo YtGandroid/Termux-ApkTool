@@ -23,7 +23,7 @@ sebelum milih file yang mau di buka cek dulu Kernel Architecture pake aplikasi [
 Semisal ternyata Kernel nya ```aarch64``` maka ketik 
 ```bash
 sh install.sh
-dpkg -i apktool_2.7.1-YtGandroid_aarch64.deb
+dpkg -i apktool_2.7.1-SNAPSHOT_aarch64.deb
 ```
 maka script suskes di install :+1:
 # Menjalankan Script
