@@ -20,6 +20,7 @@ cd Termux-ApkTool
 ```
 
 sebelum milih file yang mau di buka cek dulu Kernel Architecture pake aplikasi [CPU Z] atau yang lain!!
+![TERMUX APKTOOL](aa.jpg)
 Semisal ternyata Kernel nya ```aarch64``` maka ketik 
 ```bash
 sh install.sh
