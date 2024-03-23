@@ -24,7 +24,7 @@ cd Termux-ApkTool
 + Semisal ternyata Kernel nya ```aarch64``` maka ketik 
 ```bash
 sh install.sh
-dpkg -i apktool_2.7.1-SNAPSHOT_aarch64.deb
+dpkg -i apktool_2.8.2-TERMUX-SNAPSHOT-1243dd5_aarch64.deb
 ```
 maka script suskes di install :+1:
 # Menjalankan Script
