@@ -31,7 +31,7 @@ maka script suskes di install :+1:
 ```bash
 apktool d nama_apk.apk
 ```
-jika kalian masih di layar home, (layar awal termux) maka kalian harus menyertakan lokasi file nya contoh ```apktool d ~/storage/downloads/mana_apk.apk```
+jika kalian masih di layar home, (layar awal termux) maka harus menyertakan lokasi file nya contoh ```apktool d ~/storage/downloads/mana_apk.apk```
 
 ## *Recompile
 Recompile dapat di lakukan dengan mengetikan
